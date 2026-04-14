@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/Peter.Pasmik/.claude/projects/-Users-Peter-Pasmik-Projects-screenpipe/memory/MEMORY.md\"}",
+  "error": "File does not exist. Note: your current working directory is /Users/Peter.Pasmik/Projects/screenpipe/apps/screenpipe-app-tauri.",
+  "timestamp": "2026-03-31T10:25:10.737Z",
+  "retry_count": 1
+}
